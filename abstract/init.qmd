@@ -1,0 +1,21 @@
+---
+title: "On Writing Abstract"
+author: "Dongweon Shin"
+date: "March 26 2025"
+
+format: 
+  revealjs:
+    css: styles.css
+    mathjax: 
+      url: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+      macros:
+        "\\eulerNum": "{\\mathit{#1}}"
+
+project:
+  type: website
+  output-dir: docs
+
+
+---
+## Recap
+
