@@ -19,3 +19,57 @@ project:
 ---
 ## Recap
 
+
+
+
+## PREPARING AN ABSTRACT FOR A SCIENTIFIC MEETING
+
+For most investigators, submitting an abstract to a scientific meeting is the first opportunity to have their work evaluated by peers. Early in your career, especially at the critical stage when you are looking for your first faculty position, preparing an abstract serves several other important functions. It forces you to set aside data gathering for a while and synthesize your results. Often, that turns out to be a useful process, even if the abstract is not accepted. Writing an abstract can clarify the direction of your research. You may discover, for example, that the reason you are having such a difficult time summarizing your work in a single abstract is that you are actually doing two or more distinct projects. You may realize that essential parts of the study are incomplete or that more subjects are needed. Best of all, if your abstract is accepted, you will have the opportunity to meet other investigators in your field.
+(See Chapters 11 and 12 on posters and oral presentations on how to get the most out of presenting your results.) But do not delay writing the full manuscript while waiting to hear whether an abstract has been accepted.
+Most of all, submitting an abstract to a meeting will also provide you with a valuable clue as to the merit of your work. While many investigators have a story about a rejected abstract that was later published in a prestigious journal, do not count on that happening to you. The response to your manuscript will usually parallel the response to the abstract. The best abstracts submitted to a meeting are chosen for so-called plenary sessions, which are scheduled for the main auditorium at times when there are no other competing events at the meeting. Abstracts rated next highest are selected for oral presentations, which are talks with slides lasting 10 or 15 minutes.
+Next in order of prestige are poster presentations, in which you prepare a poster describing your work, attach it to a bulletin board, and stand by it for a few hours during the meeting, discussing your research with passersby. Least prestigious are abstracts that were not accepted; these may, however, be published in the proceedings of the meeting.
+
+##
+Reviewers look for reasons to reject an abstract, in part because it is usually easier to identify obviously bad work than to select really good work. 
+But reviewers will usually not have time to notice subtle examples of bias or confounding. Several grounds for quick rejection of an abstract are particularly common.
+
+
+
+Dull Topic with Lots of Previous Research.
+judge an abstract's originality. You must include something new, or carefully specify how what you did is better than previous work. If your work is strictly confirmatory, then indicate why the confirmation was needed-for example, because only one or two prior studies had been done, or because the previous results were considered
+controversial.
+No Context for the Research. Never assume that the reviewers will be sufficiently familiar with your specific field of research to understand why it is important. Take one or two sentences at the beginning of the abstract to explain the background for the work, and take another sentence at the end to discuss the implications of your results.
+Small Number of Subjects. Limited sample size is especially problematic if the results are nonsignificant. Remember, reviewers are looking for a reason to reject, and a study of only 5 or even 20 patients is an invitation to do so. All is not lost, however, if your or to conta ge he pains at can, hers why ine rescarch matter, you way,.
+No Numbers, All Talk Most reviewers respond unfavorably to an abstract devoid of numbers, in part because it is not possible to tell whether the investigators studied one subject or 500, or whether they found anything of value. In some cases, abstracts lacking statistics fall in the same category. Numbers and statistics may not matter in your particular case (say, discovering a genetic defect that causes a rare disease), but your abstract will probably face an uphill battle.
+All Numbers, No Words. Abstracts crammed with lists of numbers with no clear explanation are often rejected. Reviewers do not have the time to figure out what an abstract might have said had the authors made it interpretable. Moreover, any important results will get drowned out by the noise.
+Too Short. This may seem silly, but an abstract that is much shorter than all the other submissions may not be accepted. It will look strange. Fill—or at least come close to filling —the box or the allocated number of words.
+Sloppiness,
+As with any submission, sloppiness in presentation will be inter-preted— and should be interpreted-as a cause for concern about the general quality of the work. Check for typographical errors, simple arithmetical mistakes, and misspelled names. Read the abstract aloud to someone else.
+Looks Too Different from Other Abstracts. Find a copy of the previous year's abstracts, which are usually published as a journal supplement. Then compare the used? What sort of research questions seemed to be in favor?
+plenary abstracts with what you plan to submit. For example, were figures
+
+
+Phrases That Invite Rejection. There are two phrases that will almost always result in your abstract being rejected: "Data will be presented" and "Results will be discussed." Never include either of these phrases in an abstract unless you have been for the audience's benefit.
+invited to make a presentation at the meeting and were asked to submit an abstract Too Many Abbreviations, Too Much Data. Lots of abbreviations and numbers may create the impression that you have done some real work, so your abstract may be less
+
+
+likely to be rejected outright. But they also make it harder for the reviewer to figure out whether you have done anything exceptional, so the likelihood of getting a high rating is also diminished. Demonstrating to a reviewer that you have many results is not nearly as important as showing that you have one important result that merits an oral or plenary presentation.
+Ten or Twenty P Values. An abstract that is full of P values is usually an abstract that lacks focus and effect sizes. Change a sentence such as "We found that fair skin (P < 0.05), sun exposure (P < 0.01), lack of use of sunscreen (P < 0.001), and residence in a beach community (P < 0.0001) were independently associated with skin cancer" into one that tells the reader what you found, and the strength of the association between each of these characteristics and skin cancer: "We identified
+several independent risk factors for skin cancer: fair skin (odds ratio [OR] = 1.6;
+95% confidence interval [CI]: 1.0 - 2.6), failure to use sunscreen (OR = 2.0; CI:
+1.4 - 2.9), and living in a beach community (RR = 5.0; CI: 2.0 - 12). Each hour of
+sun exposure per day increased the risk of skin cancer by 35% (95% CI: 10% - 66%)." The extra length leads to much greater clarity.
+Overuse of Respectively. It is tempting to save space by listing variables, then the results followed by the word respectively: "The risks of glaucoma in white men, black men, Asian men, white women, black women, and Asian women were 8%, 12%, 6%, 4%, 6%, and 3%, respectively." This phrasing slows down and confuses the reader, who is forced to scan back and forth between the text and the numbers to figure out which ones go together. Reread the sentence in question, and you will see what I mean.
+Instead of using "respectively," rephrase the sentence to keep the groups and the percentages together, and to provide some interpretation of the results: "Glaucoma was more common in men than women, and in blacks than in other racial groups.
+The risks in men were 8% in whites, 12% in blacks, and 6% in Asians; in women, they were 4% in whites, 6% in blacks, and 3% in Asians."
+
+
+
+
+#
+
+The purpose of the abstract that accompanies a manuscript is straightforward: to present the basic substance of the study, and to entice the reader (and the reviewer) to read the manuscript. Keep it simple.
+The most common mistakes are reusing a meeting abstract for a manuscript and using an abstract that is unnecessarily complicated. If your manuscript is accepted, almost everyone who is reading your abstract will have access to the full-length article; after all, it has been published. The same is true in the manuscript review process.
+Even if someone is reading the abstract on the Internet, that person will either have access to a medical library or can write to you for a reprint.
+Minor details should be omitted from the abstract (but most should be included in the text, of course). It is rarely necessary to mention the number of subjects with missing data, or the exact recruitment period, for example. There is rarely a need to describe your subjects in great detail (e.g., the age, sex, and race distribution) or to explain complicated findings. These are the reasons why the abstract for a paper is sometimes more appropriately called a summary.
+Many journals now require that authors submit a structured abstract, with specific sections dictated by each journal's rules. Imposing a uniform framework ensures that all the key points are covered. Structured abstracts are just like ordinary abstracts, with one exception: They are rarely written in complete sentences. The basic parts -background, methods, results, and conclusions —remain, though some may be further divided into
