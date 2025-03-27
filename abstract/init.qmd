@@ -24,12 +24,56 @@ project:
 
 ## PREPARING AN ABSTRACT FOR A SCIENTIFIC MEETING
 
-For most investigators, submitting an abstract to a scientific meeting is the first opportunity to have their work evaluated by peers. Early in your career, especially at the critical stage when you are looking for your first faculty position, preparing an abstract serves several other important functions. It forces you to set aside data gathering for a while and synthesize your results. Often, that turns out to be a useful process, even if the abstract is not accepted. Writing an abstract can clarify the direction of your research. You may discover, for example, that the reason you are having such a difficult time summarizing your work in a single abstract is that you are actually doing two or more distinct projects. You may realize that essential parts of the study are incomplete or that more subjects are needed. Best of all, if your abstract is accepted, you will have the opportunity to meet other investigators in your field.
-(See Chapters 11 and 12 on posters and oral presentations on how to get the most out of presenting your results.) But do not delay writing the full manuscript while waiting to hear whether an abstract has been accepted.
-Most of all, submitting an abstract to a meeting will also provide you with a valuable clue as to the merit of your work. While many investigators have a story about a rejected abstract that was later published in a prestigious journal, do not count on that happening to you. The response to your manuscript will usually parallel the response to the abstract. The best abstracts submitted to a meeting are chosen for so-called plenary sessions, which are scheduled for the main auditorium at times when there are no other competing events at the meeting. Abstracts rated next highest are selected for oral presentations, which are talks with slides lasting 10 or 15 minutes.
-Next in order of prestige are poster presentations, in which you prepare a poster describing your work, attach it to a bulletin board, and stand by it for a few hours during the meeting, discussing your research with passersby. Least prestigious are abstracts that were not accepted; these may, however, be published in the proceedings of the meeting.
+Preparing an abstract serves several other important functions.
 
-##
+- It forces you to **set aside data gathering for a while** and synthesize your results. Often, that turns out to be a useful process. 
+It can clarify the direction of your research. You may discover, for example, that the reason you are having such a difficult time summarizing your work in a single abstract is that you are actually doing two or more distinct projects. 
+- You may realize that essential parts of the study are incomplete or that more subjects are needed.
+- DO NOT delay writing the full manuscript while waiting to hear whether an abstract has been accepted.
+
+Most of all, submitting an abstract to a meeting will also provide you with a valuable clue as to the merit of your work. 
+The response to your manuscript will usually parallel the response to the abstract. 
+
+## GETTING STARTED ON A MEETING ABSTRACT
+
+In the simplest form, an abstract consists of four parts: 
+
+(i) a sentence or two of introduction, 
+
+(ii) the essential aspects of the study's methods, 
+(iii) the main results of the study, and 
+
+(iv) a brief statement of your conclusions about the meaning of the study. (Each of these four sections is discussed in more detail in Chapters 3, 4, 5, and 8.) 
+
+In all sections, brevity is essential. It is often helpful to write the parts separately and then string them together at the end. Occasionally, a meeting requires that you submit a structured abstract, following specific rules on content.
+
+
+## Introduction
+The introduction answers the question "Why was it important to do this study?" by presenting what is known and not known, about the research topic. Sometimes, this part of an abstract is called the background: Do not make the common mistake of assuming that the answer is obvious. Just because you have spent a few years working on a problem does not mean that a reviewer or reader will be nearly as knowledgeable. Sometimes, stating the limitations of previous studies helps: "While many family practitioners believe they spend more time with depressed patients than do internists, this has never been evaluated in actual practice."
+The introduction should be written in plain English, without jargon, run-on sentences, abbreviations, or acronyms. You want to make it as easy as possible for the reviewer to read on. The introduction usually ends with a one-sentence description of the research question, in the form of the study's objective.
+
+## Methods
+The methods section of the abstract should describe the study design, who was studied, what you measured, and how you analyzed the data. If it matters, you should mention where the subjects came from and how they were selected. Specify the number of subjects, by group if appropriate. All important measurement techniques should be described. You can leave out obvious methods ("Subjects were asked their age and sex"), as well as intricate details, unless they absolutely matter.
+Results
+Make sure you emphasize the main finding of the study. Concentrate on various aspects of that single result, such as the effects of adjusting for potential confounders,
+
+
+of the meeting have decided to accept the same proportion of abstracts in each area. If a meeting has a scientific theme, and your research fits that theme, then take advantage of that, since the meeting organizers will be looking for abstracts in that area.
+Some meetings, especially international ones, may accept all, or nearly all, the abstracts submitted. In general, the higher the registration fee, the more likely an abstract will be accepted. For many groups, the annual or biennial meeting is a big money-making opportunity, particularly if there is extensive corporate sponsor-ship. That is why membership in the meeting's sponsoring organization is often a prerequisite for submission of an abstract. The more abstracts submitted, the more scientists who need to join the society; the more abstracts accepted, the more scientists who will pay the registration fee, attend the meeting, and be available to corporate representatives.
+How Can I Make Sure That My Abstract Stands Out?
+A review panel usually consists of between three and ten reviewers, each of whom may receive 50 to 100, or sometimes more, abstracts to review. Reviewers can spend only a few minutes with each abstract. They are looking for abstracts that seem to belong at the meeting, such as those with hot topics, large sample sizes, or impressive statistics. In their haste, reviewers may not notice subtly elegant design features or novel methodologic approaches unless you point them out. If your abstract has one of these attributes, say so:
+Although many have advocated ..., this has never been done. We therefore performed the first. ...
+To avoid these problems, we developed a new methodology that. ...
+Reviewers may miss important results, especially if they are written in jargon. Use plain English to emphasize them:
+Change:
+In multivariable logistic regression analyses, there was a statistically significant linear association between serum HDL cholesterol levels measured in stored serum samples obtained at the time of enrollment and the odds of being diagnosed with an aortic aneurysm (P < 0.001) during follow-up.
+To:
+HDL cholesterol was an independent risk factor for aortic vascular disease, such that subjects with serum levels < 35 mg/dL had 3 times (95% Cl: 1.4 - 7) the risk of developing an aortic aneurysm than those with levels > 55 mg/dL.
+
+
+
+## Why Abstracts are Rejected
+
 Reviewers look for reasons to reject an abstract, in part because it is usually easier to identify obviously bad work than to select really good work. 
 But reviewers will usually not have time to notice subtle examples of bias or confounding. Several grounds for quick rejection of an abstract are particularly common.
 
